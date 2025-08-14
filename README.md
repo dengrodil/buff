@@ -20,7 +20,7 @@ I wrote this way back in 2017. Since it's been a while, I think I can do better 
 - Inherit from the base class `Buff` to implement your custom buff / status effects.
 
 ## BuffReceiver
-- Marks the GameObject as something that can receive `Buffs`.
+- Marks the GameObject as something that can receive `Buffs`. Attach this as a component to the GameObject.
 
 # Todo
 - Convert into a UPM-friendly plugin

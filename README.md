@@ -4,6 +4,8 @@ A `Buff` or Status Effect system that can be used in any game.
 
 I wrote this way back in 2017. Since it's been a while, I think I can do better than what I wrote before. I'll be updating this sometime.
 
+`Actual code can be found in Assets/Sylpheed/Buff`
+
 - Works on any type of buff or status effect you could think of. I have used this in multiple released titles and prototypes.
 - Extensive buff stacking system inspired by Guild Wars 2.
 - Performant. This is built with performance in mind. Buffs are pooled and reused if applicable.
